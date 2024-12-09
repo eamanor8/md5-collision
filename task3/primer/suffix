@@ -1,0 +1,4 @@
+
+EOF
+digest=$(cat DIGEST | cut -c10- )
+echo "The sha256 digest is $digest"
