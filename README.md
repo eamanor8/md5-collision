@@ -1,4 +1,4 @@
-# MD5 Collision Lab
+# MD5 Collision
 
 This repository contains my implementation and exploration of MD5 hash collisions, based on the ECE/CS 5560 course lab. The goal of the lab is to demonstrate how MD5 collisions can be generated and exploited using available tools, and to understand the underlying vulnerabilities in the MD5 hashing algorithm.
 
